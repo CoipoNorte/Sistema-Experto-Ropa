@@ -1,4 +1,5 @@
 # Base de conocimientos
+
 ocasiones = ['Formal', 'Informal', 'Casual', 'Especial']
 climas = ['Frío', 'Templado', 'Cálido']
 presupuestos = ['Bajo', 'Medio', 'Alto']
